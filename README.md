@@ -47,5 +47,4 @@ See the detailed report in the /report folder.
 
 ## Note:
 The project source code will be uploaded soon.
-Currently, the repository contains the project documentation,
-system architecture, and demonstration of the working prototype.
+Currently, the repository contains the project documentation, system architecture, and demonstration of the working prototype.
